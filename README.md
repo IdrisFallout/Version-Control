@@ -38,3 +38,6 @@ for file in glob.glob(f"*{file_extension}"):
 if __name__ == "__main__":
     pass
 ```
+
+> **Note** 
+> You can choose to save your file to the same file extension if you wanted(not limited to txt)
